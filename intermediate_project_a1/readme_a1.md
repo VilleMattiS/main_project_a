@@ -20,10 +20,12 @@ Artificial intelligence
   - MIT 6.034 Artificial Intelligence, Fall 2010 (lecture-series in youtube)
   - Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2025 (lecture-series in youtube)
 <br><br>
+
 Python programming language
   - Python Full Course for free by Bro Code 🐍 (lecture-series in youtube)
   - Learning_Python_6thEdition (pdf-book)
 <br><br>
+
 Calculus 1
   - Calculus: A complete course 10th edition, Robert A.Adams & Christopher Essex (pdf-book)
   - Calculus 10th edition, Anton & Bivens & Davis (pdf-book)
