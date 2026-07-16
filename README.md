@@ -1,4 +1,4 @@
-Study/technical study project A.
+Study project A.
 
 Structure
 
